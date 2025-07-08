@@ -1,7 +1,7 @@
 # Virtual Environments
 universityenv/
 .venv/
-.virtualenv/
+virtualenv/
 venv/
 env/
 ENV/
@@ -73,8 +73,7 @@ cover/
 *.db
 
 # Environment
-.env
-.env.local
+
 secrets.yml
 local_settings.py
 
